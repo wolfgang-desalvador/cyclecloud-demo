@@ -6,7 +6,7 @@
 [cluster OpenPBS Extended]
 FormLayout = selectionpanel
 Category = Schedulers
-
+ImageURL="static/cloud/cluster/ui/ClusterIcon/pbspro.png"
 Autoscale = $Autoscale
 
     [[node defaults]]
