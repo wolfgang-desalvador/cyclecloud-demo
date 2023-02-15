@@ -3,7 +3,7 @@
 ## Cluster Configuration File ##
 ################################
 
-[cluster OpenPBS]
+[cluster OpenPBS Extended]
 FormLayout = selectionpanel
 Category = Schedulers
 
